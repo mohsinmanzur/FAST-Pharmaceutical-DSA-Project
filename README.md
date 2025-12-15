@@ -1,4 +1,4 @@
-# FAST-Pharmaceutical-DSA-Project
+# FAST Pharmaceutical DSA Project
 
 A CLI-based pharmacy management system created with OOP and DSA concepts. Written in C++, this project was part of my Data Structures and Algorithms course. It includes the following:
 
